@@ -8,9 +8,9 @@ Author: Valentin Knoll
 - You don't need any external packages, just basic PHP programming language.
 
 In files-scraper.php file you only need to change 3 parameters:
-$from = path to the data folder
-$to = path to the target folder
-$extension = file extension what will be scraped
+- $from = path to the data folder
+- $to = path to the target folder
+- $extension = file extension what will be scraped
 
 Script pulls all files with selected file extension from Proekt and saves in destination folder, no matter how deep is nesting.
 
